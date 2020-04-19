@@ -24,12 +24,13 @@ Today in class tutor Dr Todd is to take us through the installation and passing 
 
 Tutor explained we needed the latest the Node.js to run Express.js - Many in class only months ago had a version that would run Express.js therefore, we are all good to go apart from the folks that have yet to install Node.js and catch up with the lesson.
 
-Dr Todd then spoke for a big a part of the lesson about Pug.js, Pug.js is what the tutor is using to demo Express.js, would appear this is his 1st time he is using Pug.js too, I still remain clueless of what Pug.js is and has nothing to do with my website or Express.js for me, and if it was a requirement the tutor should let me know otherwise it is just something unfamilliar to throw me off track for a little bit. Pug.js is very Python was mentioned by the tutor many times and the script we were viewing on the projector a little cringy - I had a look into Python and it looked nothing like what we viewed in class however, we are not here today to learn Python we are about Express.js and **what we all wanted to know is how Express.js will pass data to and from a server!**.
+Dr Todd then spoke for a big a part of the lesson about Pug.js, Pug.js is what the tutor is using to demo Express.js, would appear this is his 1st time he is using Pug.js. I still remain clueless of what Pug.js is and for me it has nothing to do with my website. Is this a requirement? then the tutor should let me know otherwise it is just something unfamilliar to throw me off track for a little bit during this class. Pug.js is very Python was mentioned by the tutor several times and the script we were viewing on the projector a little cringy - I had a look into Python after class it would appeared nothing like what we viewed in class however, we are not here today to learn Python we are about Express.js and **what we all wanted to know is how Express.js will pass data to and from a server!**.
  
 The tutor went through the folder structure from the Express.js boilerplate. I have to say was sooooo confusing I have no idea what the tutor was trying to show me. Unfortunately missing the part on how this all fits into my web app and how are we to pass data. I actually came out of class none the wiser. The after class talk with one other who installed Express.js with this Pug.js said his was not working. There was no focus on Routes and how we are to handle multiple different http requests at a specified url.
 
-Uncertainty is the word of the day. 
-It would appear I will need to go home and make time to figure this out on my own. Some guidance will be sort after if it is possible so not waste too many days on something that may not be required
+**Uncertainty** is the word of the day. 
+It would appear I will need to go home and make time to figure this out on my own. Some guidance will be sort after if it is possible so not waste too many days on something that may not be required.
+
 Express.js vs Node.js image sourced from [GangBoard](<(https://github.com/terlici/base-express)>) 
 
 ## Todo list:
