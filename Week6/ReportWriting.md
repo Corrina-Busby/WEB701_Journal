@@ -1,12 +1,17 @@
 <br/>
 <p align="center">
-<img  width="250" height="220" alt="Logo1" src="../assets/cowGreenBkground.png">
+<img  width="250" height="220" alt="Logo1" src="../assets/bull_power.jpg">
 </p>
 
 ## Report time
 
 This report is extensive and is taking a lot longer than anticipated making it very difficult to get started on it this week. Above all that I have yet to look into frameworks and fully understand what it is the tutor requires it appears that there are a tonne of resources that need revisted. They are not quite user friendly so to speak i.e the unsecure link A Brief History of Information Architecture was not engaging and had me asleep in seconds. Yes I could go and find my own content but did I ....no <br><br>
 _The mission is to finish off the Site Goals section and look into a Framework for assignment 2_
+<br/>
+
+<p align="center">
+<img  width="750" height="160" alt="History" src="../assets/History.PNG">
+</p>
 
 ## Site Goals
 
